@@ -17,3 +17,12 @@ For training the model on new data:
 
 Now, the previously explained method can be simply used for identifation process using the newly trained model.
 
+Dependencies:
+
+The code in this project makes use of modules from the following libraries:
+
+1. BioPython
+2. Pandas
+3. Numpy
+
+Please make sure to install these libraries for the code to run.
