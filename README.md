@@ -3,7 +3,7 @@ Machine Learning model for the Identification of Sulphur Centred Hydrogen Bonds
 
 The model can be used to identify SCHBs directly from the (.pdb) files. 
 
-For the identification on new input:
+For identification on new inputs:
 
 1. Place your input (.pdb) files in the /Data/Predict/ folder 
 2. Execute the jupyter notebook (CS-460 Predictions.ipynb) for the ouput 
