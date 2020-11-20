@@ -15,5 +15,5 @@ For training the model on new data:
 1. Rename the new dataset (.csv) to Dataset and place it in the Datasets folder
 2. Execute the jupyter notebook (CS-460 Model.ipynb)
 
-Now, the previously explained method is to be simply used for identifation process using the newly trained model.
+Now, the previously explained method can be simply used for identifation process using the newly trained model.
 
