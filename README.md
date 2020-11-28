@@ -26,5 +26,6 @@ The code in this project makes use of modules from the following libraries:
 3. Pandas
 4. Numpy
 5. MatPlotLib
+6. SciKit Learn
 
 Please make sure to install these libraries for the code to run.
