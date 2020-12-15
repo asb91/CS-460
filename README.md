@@ -32,4 +32,4 @@ The code in this project makes use of modules from the following libraries:
 5. MatPlotLib
 6. SciKit Learn
 
-Please make sure to install these libraries before running the code.
+Please make sure to install these libraries before running the code. Instructions for installation on specific platforms can be found on the Documenation page of the libraries' website.  
