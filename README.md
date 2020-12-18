@@ -17,7 +17,8 @@ The model has been trained on the top-500 database from the Richardson Lab. It c
 For training the model on new data:
 
 1. Rename the new dataset (.csv) to Dataset and place it in the Datasets folder
-2. Execute the jupyter notebook (CS-460 Model.ipynb)
+2. Rename the positive instances file (.csv) to Positives and place it in the Datasets folder
+3. Execute the jupyter notebook (CS-460 Model.ipynb)
 
 Now, the previously explained method can be simply used for identifation process using the newly trained model.
 
